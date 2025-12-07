@@ -1,0 +1,5 @@
+board:
+  name: splinky
+  vendor: bastardkb
+  socs:
+    - name: rp2040
