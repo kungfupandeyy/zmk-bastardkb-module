@@ -1,0 +1,8 @@
+/*
+ * Copyright (c) 2023 The ZMK Contributors
+ * Copyright (c) 2024, Nicolas Munnich
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+#include <arm/raspberrypi/rp2040-boot-mode-retention.dtsi>
